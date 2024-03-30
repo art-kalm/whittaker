@@ -7,7 +7,7 @@ This is a small code that computes Whittaker vector for certain Harish-Chandra b
 To use it, clone the repository:
 
 ```
-	https://github.com/art-kalm/whittaker.git
+	git clone https://github.com/art-kalm/whittaker.git
 ```
 
 Install `sage` and start it from the `whittaker` folder, then run
