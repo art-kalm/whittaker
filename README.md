@@ -4,11 +4,19 @@ This is a small code that computes Whittaker vector for certain Harish-Chandra b
 
 ## Usage
 
-To use it, install `sage` and start it from the `whittaker` folder, then run
+To use it, clone the repository:
+
+```
+	https://github.com/art-kalm/whittaker.git
+```
+
+Install `sage` and start it from the `whittaker` folder, then run
 
 ```
 	%attach whittaker.py
 ```
 
 Examples of usage can be found in `examples.ipynb` that requires `jupyter-notebook` to start. 
+
+
 
